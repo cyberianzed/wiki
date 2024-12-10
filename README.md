@@ -2,7 +2,7 @@
 description: >-
   The KPH Wiki is your go-to knowledge hub for all things startups. Whether
   you’re a first-time founder, seasoned entrepreneur, or someone fascinated by
-  the startup ecosystem, this wiki has been curated
+  the startup ecosystem
 ---
 
 # KPH Wiki 🌟
