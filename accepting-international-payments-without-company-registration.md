@@ -1,3 +1,8 @@
+---
+description: >-
+  A guide on how to accept international payments without the need for a legal entity. This document explains the concept of a Merchant of Record (MoR), outlines its advantages and disadvantages, and provides a list of available payment solutions.
+---
+
 # Accepting International Payments Without Company Registration
 
 Without a legal entity, you will have to use a payment gateway that is a merchant of record.
