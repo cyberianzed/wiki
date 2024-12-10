@@ -1,3 +1,8 @@
+---
+description: >-
+alternatives to Stripe for payments, sales tax compliance, and billing management in SaaS businesses.
+---
+
 # Alternative Options to Stripe for SaaS Payment, Sales Tax, and Billing Management
 
 When evaluating alternative solutions to Stripe, we broke down the exploration into three main sections: Payments, Sales Tax, and Billing. Below is a comprehensive summary of our findings:
