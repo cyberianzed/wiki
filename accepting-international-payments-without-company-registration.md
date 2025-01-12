@@ -26,6 +26,21 @@ A Merchant of Record is a legal entity that sells goods or services to end custo
 
 ## Available Payment Solutions
 
+
+### Lemon Squeezy
+A modern alternative to traditional payment processors, designed specifically for digital products and software.
+
+**Website:** [https://lemonsqueezy.com](https://lemonsqueezy.com)
+
+**Twitter:** [@lmsqueezy](https://x.com/lmsqueezy)
+
+### Polar
+An open-source, modern merchant of record payment provider designed for digital products and SaaS.
+
+**Website:** [https://polar.sh/](https://polar.sh/)
+
+**Twitter:** [@polar_sh](https://x.com/polar_sh)
+
 ### Paddle
 A complete commerce platform that acts as MoR. Paddle handles payments, taxes, and compliance globally.
 
@@ -48,14 +63,6 @@ A simple platform focused on creators and digital product sellers, offering buil
 **Website:** [https://gumroad.com](https://gumroad.com)
 
 **Twitter:** [@gumroad](https://x.com/gumroad)
-
-### Lemon Squeezy
-*Currently not accepting new accounts after Stripe acquisition*
-A modern alternative to traditional payment processors, designed specifically for digital products and software.
-
-**Website:** [https://lemonsqueezy.com](https://lemonsqueezy.com)
-
-**Twitter:** [@lmsqueezy](https://x.com/lmsqueezy)
 
 ### xPay
 A YC-backed commerce solution for SaaS companies that handles global payments, billing operations, tax compliance, and FIRC certificates.
